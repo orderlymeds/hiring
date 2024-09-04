@@ -1,16 +1,15 @@
 ### Job Title: Full-stack Developer (UI/UX Focus)
 
-Orderly Wellness Corporation is a forward-thinking, innovation-driven company committed to creating exceptional digital health experiences for our customers. OrderlyMeds.com is our first product -- a telemedicine platform connecting US consumers with a national network of providers and pharmacies that provide prescription medical weight loss treatments.
-
 We are looking for a skilled Full-stack Developer with a strong focus on UI/UX design to join our remote engineering team. As part of a small, collaborative team, you will contribute directly to the development of customer-facing products. Your balance of back-end development and front-end design expertise will ensure our applications are functional, intuitive, and visually appealing.
 
-**How we work:**
+**What we offer:**
 
-- Ideas and priorities flow from across the company.
-- Big initiatives are planned into 4-8 week releases.
-- Progress is tracked in two-week cycles.
-- Merged PRs auto-deploy to staging and production via chatops.
-- Recorded work in progress demos are shared with the company.
+- Flexible remote work environment
+- Competitive salary and benefits package
+- Equity in a fast-growing company with no VC funding dilution
+- Professional development opportunities, including training and certifications
+- A collaborative and inclusive work culture
+- Opportunities to work on challenging and meaningful projects
 
 **What we value:**
 
@@ -22,6 +21,14 @@ We are looking for a skilled Full-stack Developer with a strong focus on UI/UX d
 - Collaboration and supporting team members
 - Making work visible
 - Iterating continuously
+
+**How we work:**
+
+- Ideas and priorities flow from across the company.
+- Big initiatives are planned into 4-8 week releases.
+- Progress is tracked in two-week cycles.
+- Merged PRs auto-deploy to staging and production via chatops.
+- Recorded work in progress demos are shared with the company.
 
 **Key responsibilities:**
 
@@ -53,15 +60,6 @@ We are looking for a skilled Full-stack Developer with a strong focus on UI/UX d
 - New marketing website launch for the updated brand guidelines
 - New patient health screening workflow and integration with medical partners
 - New patient portal for order tracking, payments, and user settings
-
-**What we offer:**
-
-- Flexible remote work environment
-- Competitive salary and benefits package
-- Equity in a fast-growing company with no VC funding dilution
-- Professional development opportunities, including training and certifications
-- A collaborative and inclusive work culture
-- Opportunities to work on challenging and meaningful projects
 
 **To Apply:**
 Submit your resume, portfolio, and a quick note on why you could be a good fit for this role to [engineering-hiring@orderlymeds.com](mailto:engineering-hiring@orderlymeds.com)
