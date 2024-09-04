@@ -35,4 +35,4 @@ Orderly Wellness Corporation is a forward-thinking, innovation-driven company co
 ## Open Roles
 
 - [Fullstack Engineer with UI/UX Focus](./roles/fullstack_ui_ux.md)
-- [Fullstack Engineering with Data Focus](./roles/fullstack_data.md)
+- [Fullstack Engineer with Data Focus](./roles/fullstack_data.md)
