@@ -1,6 +1,6 @@
-### Job Title: Full-stack Developer (UI/UX Focus)
+### Job Title: Full-stack Developer (Data Focus)
 
-We are looking for a skilled Full-stack Developer with a strong focus on UI/UX design to join our remote engineering team. As part of a small, collaborative team, you will contribute directly to the development of customer-facing products. Your balance of back-end development and front-end design expertise will ensure our applications are functional, intuitive, and visually appealing.
+We are looking for a skilled Full-stack Developer with a strong focus on data engineering to join our remote engineering team. As part of a small, collaborative team, you will contribute directly to the development of customer-facing products. Your balance of back-end development and front-end design expertise will ensure our applications are functional, intuitive, and visually appealing.
 
 **What we offer:**
 
@@ -33,7 +33,9 @@ We are looking for a skilled Full-stack Developer with a strong focus on UI/UX d
 **Key responsibilities:**
 
 - Full-stack Development: develop, test, and maintain scalable web applications using Ruby on Rails as the primary framework.
-- UI/UX Design: collaborate with product managers, designers, and developers to create user-friendly and aesthetically pleasing interfaces.
+- Data modeling: modeling data for both transactional databases and analytics databases. Star schema data modeling preferred for analytics data store.
+- ETL Pipeline Development: writed tested data pipelines for Twilio segment that pull data from many tools into Google BigQuery
+- BI Tools Experience: Help the business stakeholders query and build data dashboards in Tableau or Looker (TBD)
 - Front-end Development: Use HTML, CSS, JavaScript, and modern server-side frameworks (Ruby on Rails Hotwire or Phoenix LiveView) to implement responsive and dynamic front-end solutions.
 - Back-end Development: design and develop RESTful APIs, integrate third-party services, and manage databases using PostgreSQL or similar technologies.
 - Code Quality: write clean, maintainable, and well-documented code. Participate in code reviews and write good test coverage to ensure adherence to best practices.
