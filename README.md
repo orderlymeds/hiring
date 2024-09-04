@@ -4,6 +4,11 @@
 
 Orderly Wellness Corporation is a forward-thinking, innovation-driven company committed to creating exceptional digital health experiences for our customers. OrderlyMeds.com is our first product -- a telemedicine platform connecting US consumers with a national network of providers and pharmacies that provide prescription medical weight loss treatments.
 
+## Open Roles
+
+- [Fullstack Engineer with UI/UX Focus](./roles/fullstack_ui_ux.md)
+- [Fullstack Engineer with Data Focus](./roles/fullstack_data.md)
+
 ## What we offer
 
 - Flexible remote work environment
@@ -32,7 +37,12 @@ Orderly Wellness Corporation is a forward-thinking, innovation-driven company co
 - Merged PRs auto-deploy to staging and production via chatops.
 - Recorded work in progress demos are shared with the company.
 
-## Open Roles
+## Our hiring process
 
-- [Fullstack Engineer with UI/UX Focus](./roles/fullstack_ui_ux.md)
-- [Fullstack Engineer with Data Focus](./roles/fullstack_data.md)
+- Apply via email
+- 15-minute onboarding call with the hiring manager
+- 60-minute asychronous offline exercise
+- 60-minute sychronous pair programming session
+- 45-minute work history interview
+- 45-minute culture-fit interview
+- Offer letters concurrent with background checks
