@@ -34,8 +34,8 @@ We are looking for a skilled Full-stack Developer with a strong focus on data en
 
 - Full-stack Development: develop, test, and maintain scalable web applications using Ruby on Rails as the primary framework.
 - Data modeling: modeling data for both transactional databases and analytics databases. Star schema data modeling preferred for analytics data store.
-- ETL Pipeline Development: writed tested data pipelines for Twilio segment that pull data from many tools into Google BigQuery
-- BI Tools Experience: Help the business stakeholders query and build data dashboards in Tableau or Looker (TBD)
+- ETL Pipeline Development: write tested data pipelines for Twilio segment that pull data from many tools into Google BigQuery.
+- BI Tools Experience: Help the business stakeholders query and build data dashboards in Tableau or Looker. (TBD)
 - Front-end Development: Use HTML, CSS, JavaScript, and modern server-side frameworks (Ruby on Rails Hotwire or Phoenix LiveView) to implement responsive and dynamic front-end solutions.
 - Back-end Development: design and develop RESTful APIs, integrate third-party services, and manage databases using PostgreSQL or similar technologies.
 - Code Quality: write clean, maintainable, and well-documented code. Participate in code reviews and write good test coverage to ensure adherence to best practices.
