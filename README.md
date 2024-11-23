@@ -1,13 +1,17 @@
 ![OrderlyMeds Logo](./images/om_horizontal.png)
 
-# Engineering @ OrderlyMeds
+Orderly Wellness Corporation is a forward-thinking,
+innovation-driven company committed to creating exceptional digital health experiences for our customers.
+OrderlyMeds.com is our first product --
+a telemedicine platform connecting US consumers
+with a national network of providers and pharmacies
+that provide prescription medical weight loss treatments.
 
-Orderly Wellness Corporation is a forward-thinking, innovation-driven company committed to creating exceptional digital health experiences for our customers. OrderlyMeds.com is our first product -- a telemedicine platform connecting US consumers with a national network of providers and pharmacies that provide prescription medical weight loss treatments.
 
 ## Open Roles
 
-- [Fullstack Engineer with UI/UX Focus](./roles/fullstack_ui_ux.md)
-- [Fullstack Engineer with Data Focus](./roles/fullstack_data.md)
+- [Senior Fullstack Engineer with UI/UX Focus](./roles/fullstack_ui_ux.md)
+- [Senior Fullstack Engineer with Data Focus](./roles/fullstack_data.md)
 - [Engineering Manager](./roles/engineering_manager.md)
 
 ## What we offer
@@ -17,7 +21,7 @@ Orderly Wellness Corporation is a forward-thinking, innovation-driven company co
 - Equity in a fast-growing company with no VC funding dilution
 - Professional development opportunities, including training and certifications
 - A collaborative and inclusive work culture
-- Opportunities to work on challenging and meaningful projects
+- Opportunities to work on meaningful projects
 
 ## What we value
 
@@ -34,16 +38,21 @@ Orderly Wellness Corporation is a forward-thinking, innovation-driven company co
 
 - Ideas and priorities flow from across the company.
 - Big initiatives are planned into 4-8 week releases.
-- Progress is tracked in two-week cycles.
 - Merged PRs auto-deploy to staging and production via chatops.
-- Recorded work in progress demos are shared with the company.
+- Recorded work (shipped or WIP) demos are shared with the company.
+
+## Upcoming projects
+
+- New patient health screening workflow and integration with medical partners
+- New patient portal for order tracking, payments, and user settings
+
 
 ## Our hiring process
 
 - Apply via email
-- 15-minute onboarding call with the hiring manager
-- 60-minute asychronous offline exercise
-- 60-minute sychronous pair programming session
+- 25-minute onboarding call with the hiring manager
+- 90-minute asynchronous offline exercise
+- 80-minute synchronous pair programming session
+- 60-minute culture-fit interview
 - 45-minute work history interview
-- 45-minute culture-fit interview
 - Offer letters concurrent with background checks
