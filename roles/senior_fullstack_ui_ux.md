@@ -1,6 +1,6 @@
-# Job title: Senior Full-stack Developer (UI/UX Focus)
+# Job title: Senior Full-stack Engineer (UI/UX Focus)
 
-We are looking for a senior Full-stack Developer with a strong focus on UI/UX design
+We are looking for a Senior Full-stack Engineer with a strong focus on UI/UX design
 to join our remote engineering team.
 As part of a small, collaborative team, you will contribute directly
 to the development of customer-facing products.

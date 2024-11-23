@@ -1,6 +1,6 @@
-# Job title: Senior Full-stack Developer (Data Focus)
+# Job title: Senior Full-stack Engineer (Data Focus)
 
-We are looking for a skilled Full-stack Developer with a strong focus on data engineering
+We are looking for a Senior Full-stack Engineer with a strong focus on data engineering
 to join our remote engineering team.
 As part of a small, collaborative team, you will contribute directly to the development of customer-facing products.
 Your balance of back-end development and front-end design know-how

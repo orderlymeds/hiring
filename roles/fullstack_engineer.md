@@ -1,6 +1,6 @@
-# Job title: Full-stack Developer
+# Job title: Full-stack Engineer
 
-We are looking for a Full-stack Developer to join our remote engineering team.
+We are looking for a Full-stack Engineer to join our remote engineering team.
 As part of a small, collaborative team, you will contribute directly
 to the development of customer-facing products.
 Your balance of back-end and front-end development know-how

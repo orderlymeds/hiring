@@ -10,8 +10,9 @@ that provide prescription medical weight loss treatments.
 
 ## Open Roles
 
-- [Senior Fullstack Engineer with UI/UX Focus](./roles/fullstack_ui_ux.md)
-- [Senior Fullstack Engineer with Data Focus](./roles/fullstack_data.md)
+- [Fullstack Engineer](./roles/fullstack_engineer.md)
+- [Senior Fullstack Engineer with UI/UX Focus](./roles/senior_fullstack_ui_ux.md)
+- [Senior Fullstack Engineer with Data Focus](./roles/senior_fullstack_data.md)
 - [Engineering Manager](./roles/engineering_manager.md)
 
 ## What we offer
