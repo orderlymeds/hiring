@@ -26,6 +26,16 @@ will ensure our applications are functional, intuitive, and visually appealing.
 - Transparency and making work visible
 - Iterating continuously
 
+## Your peers would describe you as someone who
+
+- Values transparency and open communication
+- Dependable in meeting your commitments
+- Able to work remotely - self-directed
+- A self-starting problem solver - displays grit
+- A lifelong learner with a growth mindset
+- A positive contributor to company morale
+- Strong opinions loosely held
+
 ## How we work
 
 - Ideas and priorities flow from across the company.

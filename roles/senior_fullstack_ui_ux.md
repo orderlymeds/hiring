@@ -27,6 +27,16 @@ will ensure our applications are functional, intuitive, and visually appealing.
 - Transparency and making work visible
 - Iterating continuously
 
+## Your peers would describe you as someone who
+
+- Values transparency and open communication
+- Dependable in meeting your commitments
+- Able to work remotely - self-directed
+- A self-starting problem solver - displays grit
+- A lifelong learner with a growth mindset
+- A positive contributor to company morale
+- Strong opinions loosely held
+
 ## How we work
 
 - Ideas and priorities flow from across the company.
@@ -73,14 +83,12 @@ will ensure our applications are functional, intuitive, and visually appealing.
 - A lifelong learner
 - A positive contributor to company morale
 
-
 ## Nice to have
 
 - Experience with Salesforce Service Cloud or Salesforce Commerce Cloud
 - Experience with cloud platforms (e.g., AWS, Heroku)
 - Knowledge of DevOps practices and CI/CD pipelines
 - Experience with mobile development or responsive design
-
 
 ## To Apply
 
