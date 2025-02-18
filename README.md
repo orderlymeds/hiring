@@ -24,7 +24,14 @@ that provide prescription medical weight loss treatments.
 - A collaborative and inclusive work culture
 - Opportunities to work on meaningful projects
 
-## What we value
+## Company values
+
+- Simply accessible
+- Expertly reliable
+- Go for delight
+- All together now!
+
+## What we value in Engineering
 
 - Customer focus and maintaining empathy with our customers.
 - Asynchronous communication by default with synchronous collaboration when needed.
