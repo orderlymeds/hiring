@@ -44,10 +44,10 @@ software designed, built, and maintained to the highest standards to enable our 
 
 ## Key responsibilities
 
+- Write code for technical deliverables, without blocking or slowing down the progress of your team
 - Empower the engineering team to develop scalable, reliable, and maintainable systems
 - Contribute via leveraged output activities -- one-on-ones, training, pair programming, and adding CI checks.
 - Promote good engineering practices within the team and beyond
-- Spend some time writing code and engage in small technical deliverables, without blocking or slowing down the progress of your team
 - Identify and implement improvements to our products and processes to support our growth
 - Collaborate with cross-functional teams to ensure technical solutions align with product strategy and reasonable timelines
 - Ensure team members understand how the work they are doing ties to wider company goals
@@ -66,6 +66,7 @@ software designed, built, and maintained to the highest standards to enable our 
 - Experience with Salesforce Service Cloud or Salesforce Commerce Cloud
 
 ## To Apply
+
 Submit your resume, portfolio, and a quick note on why you could be a good fit for this role to
 [engineering-hiring@orderlymeds.com](mailto:engineering-hiring@orderlymeds.com)
 

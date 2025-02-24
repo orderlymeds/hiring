@@ -45,38 +45,38 @@ will ensure our applications are functional, intuitive, and visually appealing.
 
 ## Key responsibilities
 
-- *Business acumen*: develop subject-matter knowledge by understanding stakeholder needs and views,
+- _Business acumen_: develop subject-matter knowledge by understanding stakeholder needs and views,
   and representing those needs and views in subsequent decision making and problem solving.
-- *Full-stack development*: develop, test, and maintain scalable web applications
+- _Full-stack development_: develop, test, and maintain scalable web applications
   using Ruby on Rails as the primary framework.
-- *Data modeling*: modeling data for both transactional databases and analytics databases.
+- _Data modeling_: modeling data for both transactional databases and analytics databases.
   Star schema data modeling preferred for analytics data store.
-- *ETL pipeline development*: write tested data pipelines for Twilio segment that
+- _ETL pipeline development_: write tested data pipelines for Twilio segment that
   pull data from many tools into Google BigQuery.
-- *BI tools experience*: help the business stakeholders query and build data dashboards in Tableau or Looker. (TBD)
-- *Back-end development*: design and develop RESTful APIs,
+- _BI tools experience_: help the business stakeholders query and build data dashboards in Tableau or Looker. (TBD)
+- _Back-end development_: design and develop RESTful APIs,
   integrate third-party services,
   and manage databases using PostgreSQL or similar technologies.
-- *Front-end development*: Use HTML, CSS, JavaScript, and modern server-side frameworks
+- _Front-end development_: Use HTML, CSS, JavaScript, and modern server-side frameworks
   (Ruby on Rails Hotwire or Phoenix LiveView) to implement responsive and dynamic front-end solutions.
-- *Code quality*: write clean, maintainable, and well-documented code.
+- _Code quality_: write clean, maintainable, and well-documented code.
   Good working knowledge of architectural design patterns and their applicability to solutions.
   Participate in code reviews and write good test coverage to ensure adherence to best practices.
   Ensure the team delivers code that is clear, concise, fit for purpose, tested, and easily understood by others.
-- *Testing and debugging*: write and conduct thorough testing, debugging, and performance optimization
+- _Testing and debugging_: write and conduct thorough testing, debugging, and performance optimization
   to ensure the stability and efficiency of applications.
-- *Delivery*: work closely with cross-functional teams to gather requirements,
+- _Delivery_: work closely with cross-functional teams to gather requirements,
   define technical specifications, and deliver high-quality software solutions.
-- *Collaboration*: help the team to perform better by
+- _Collaboration_: help the team to perform better by
   introducing significant improvements to technology, process, and practice.
   Work with the team to prioritise work,
   simplify solutions,
   improve quality,
   reduce technical debt,
   and deliver tangible business value earlier.
-- *Continuous improvement*: stay updated on emerging technologies and industry trends,
+- _Continuous improvement_: stay updated on emerging technologies and industry trends,
   and seek ways to improve existing processes and products.
-- *Mentoring and coaching*: consistently educate others in the team on processes and technical practices.
+- _Mentoring and coaching_: consistently educate others in the team on processes and technical practices.
 
 ## Your peers would describe you as
 
@@ -85,7 +85,6 @@ will ensure our applications are functional, intuitive, and visually appealing.
 - A lifelong learner
 - A positive contributor to company morale
 
-
 ## Nice to have
 
 - Experience with Salesforce Service Cloud or Salesforce Commerce Cloud
@@ -93,11 +92,9 @@ will ensure our applications are functional, intuitive, and visually appealing.
 - Knowledge of DevOps practices and CI/CD pipelines
 - Experience with mobile development or responsive design
 
-
 ## To Apply
 
-Submit your resume and a quick note on why you could be a good fit for this role
-to [engineering-hiring@orderlymeds.com](mailto:engineering-hiring@orderlymeds.com)
+This role is closed.
 
 Orderly Wellness Corporation is an equal opportunity employer.
 We celebrate diversity and are committed to creating an inclusive environment for all employees.

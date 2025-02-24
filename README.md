@@ -7,13 +7,15 @@ a telemedicine platform connecting US consumers
 with a national network of providers and pharmacies
 that provide prescription medical weight loss treatments.
 
-
 ## Open Roles
+
+- [Engineering Manager](./roles/engineering_manager.md)
+
+# Prior Roles
 
 - [Fullstack Engineer](./roles/fullstack_engineer.md)
 - [Senior Fullstack Engineer with UI/UX Focus](./roles/senior_fullstack_ui_ux.md)
 - [Senior Fullstack Engineer with Data Focus](./roles/senior_fullstack_data.md)
-- [Engineering Manager](./roles/engineering_manager.md)
 
 ## What we offer
 
@@ -63,7 +65,6 @@ that provide prescription medical weight loss treatments.
 
 - New patient health screening workflow and integration with medical partners
 - New patient portal for order tracking, payments, and user settings
-
 
 ## Our hiring process
 

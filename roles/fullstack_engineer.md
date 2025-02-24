@@ -45,37 +45,37 @@ will ensure our applications are functional, intuitive, and visually appealing.
 
 ## Key responsibilities
 
-- *Full-stack development*: develop, test, and maintain scalable web applications
+- _Full-stack development_: develop, test, and maintain scalable web applications
   using Ruby on Rails as the primary framework.
   Write clean code with guidance, and consistently follow stated best practices.
-- *UI/UX design*: collaborate with product managers, designers, and developers
+- _UI/UX design_: collaborate with product managers, designers, and developers
   to implement user-friendly and aesthetically pleasing interfaces.
   Use modern tools and frameworks to build rich, beautiful user experiences.
-- *Front-end development*: Use HTML, CSS, JavaScript, and modern server-side frameworks
+- _Front-end development_: Use HTML, CSS, JavaScript, and modern server-side frameworks
   (Ruby on Rails Hotwire or Phoenix LiveView) to implement responsive and dynamic front-end solutions.
-- *Back-end development*: design and develop RESTful APIs,
+- _Back-end development_: design and develop RESTful APIs,
   integrate third-party services,
   and manage databases using PostgreSQL or similar technologies.
-- *Code quality*: write code that meets our internal standards
+- _Code quality_: write code that meets our internal standards
   for style, maintainability, and best practices.
   Maintain and advocate for these standards through code reviews.
   Look to simplify code solutions.
-- *Testing and debugging*: write and conduct thorough testing, debugging, and performance optimization
+- _Testing and debugging_: write and conduct thorough testing, debugging, and performance optimization
   to ensure the stability and efficiency of applications.
-- *Delivery*: own the entire life cycle of a piece of work, shipping features and small improvements,
+- _Delivery_: own the entire life cycle of a piece of work, shipping features and small improvements,
   seeking appropriate assistance and guidance from the team.
   Collaborate with the team on larger projects.
-- *Self-management*: set and meet timeline expectations for your work.
+- _Self-management_: set and meet timeline expectations for your work.
   Recognise early when a task is taking longer than expected and seek to resolve.
   Be comfortable working in a fully remote, agile, iterative software development process.
-- *Collaboration*: participate in technical design of features with guidance.
+- _Collaboration_: participate in technical design of features with guidance.
   Contribute evenly in pair programming.
   Role model values and behaviours to team mates.
-- *Communication*: express ideas clearly when pairing and in small team forums.
+- _Communication_: express ideas clearly when pairing and in small team forums.
   Suggest new technical/process ideas. Articulate thinking clearly to wider team.
-- *Continuous improvement*: stay updated on emerging technologies and industry trends,
+- _Continuous improvement_: stay updated on emerging technologies and industry trends,
   and seek ways to improve existing processes and products.
-- *Mentoring and coaching*: provide advice on specific technical approaches
+- _Mentoring and coaching_: provide advice on specific technical approaches
   in areas you are familiar in.
 
 ## Nice to have
@@ -87,8 +87,7 @@ will ensure our applications are functional, intuitive, and visually appealing.
 
 ## To Apply
 
-Submit your resume and a quick note on why you could be a good fit for this role
-to [engineering-hiring@orderlymeds.com](mailto:engineering-hiring@orderlymeds.com)
+This role is closed.
 
 Orderly Wellness Corporation is an equal opportunity employer.
 We celebrate diversity and are committed to creating an inclusive environment for all employees.
