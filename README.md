@@ -9,10 +9,9 @@ that provide prescription medical weight loss treatments.
 
 ## Open Roles
 
-- [Engineering Manager](./roles/engineering_manager.md)
-
 # Prior Roles
 
+- [Engineering Manager](./roles/engineering_manager.md)
 - [Fullstack Engineer](./roles/fullstack_engineer.md)
 - [Senior Fullstack Engineer with UI/UX Focus](./roles/senior_fullstack_ui_ux.md)
 - [Senior Fullstack Engineer with Data Focus](./roles/senior_fullstack_data.md)
