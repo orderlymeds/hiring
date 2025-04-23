@@ -9,6 +9,8 @@ that provide prescription medical weight loss treatments.
 
 ## Open Roles
 
+- [IT Administrator (Tampa, FL)](./roles/it_admin.md)
+
 # Prior Roles
 
 - [Engineering Manager](./roles/engineering_manager.md)
