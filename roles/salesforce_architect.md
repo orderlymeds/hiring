@@ -44,11 +44,11 @@ Your expertise in Salesforce architecture, development, and integration will ens
 ## Key responsibilities
 
 - _Salesforce architecture_: design scalable and secure Salesforce solutions that align with business needs and technical requirements.
-- _Custom development_: lead the development of custom Salesforce applications using Apex, Visualforce, Lightning Web Components, and other Salesforce technologies.
+- _Custom development_: lead the development of custom Salesforce applications using SF CLI, Flows, Apex, Visualforce, Lightning Web Components, and other Salesforce technologies.
 - _Integration_: design and implement integrations between Salesforce and external systems using APIs, middleware, and ETL tools.
 - _Data management_: ensure data integrity and scalability by designing effective data models, managing migrations, and optimizing performance.
 - _Solution design_: collaborate with stakeholders to gather requirements, define technical solutions, and create detailed architecture documentation.
-- _Code quality_: establish and enforce coding standards, best practices, and maintainability guidelines through code reviews and mentoring.
+- _Code quality_: establish and enforce coding standards, best practices, and maintainability guidelines through pull request reviews and mentoring.
 - _Testing and debugging_: ensure the stability and efficiency of Salesforce solutions through rigorous testing, debugging, and performance optimization.
 - _Delivery_: own the end-to-end delivery of Salesforce projects, from design to deployment, ensuring timelines and quality standards are met.
 - _Collaboration_: work closely with cross-functional teams, including product managers, developers, and business stakeholders, to deliver impactful solutions.
@@ -58,7 +58,7 @@ Your expertise in Salesforce architecture, development, and integration will ens
 ## Nice to have
 
 - Salesforce certifications (e.g., Salesforce Certified Technical Architect, Application Architect, or System Architect)
-- Experience with Salesforce Service Cloud, Sales Cloud, or Commerce Cloud
+- Experience with Salesforce Health Cloud and / or B2B Commerce
 - Knowledge of DevOps practices and CI/CD pipelines for Salesforce
 - Experience with cloud platforms (e.g., AWS, Heroku)
 - Familiarity with Agile development methodologies
