@@ -10,6 +10,9 @@ that provide prescription medical weight loss treatments.
 ## Open Roles
 
 - [IT Administrator (Tampa, FL)](./roles/it_admin.md)
+- [Data Analyst (remote)](./roles/data_analyst.md)
+- [Data Engineer (remote)](./roles/senior_data_engineer.md)
+- [Salesforce Architect (remote)](./roles/salesforce_architect.md)
 
 # Prior Roles
 
