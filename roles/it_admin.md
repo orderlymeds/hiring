@@ -1,6 +1,6 @@
 # IT Administrator in Tampa, FL
 
-Location: Hybrid in Tampa, FL
+Location: On-Site in Tampa, FL
 Department: Information Technology
 Reports To: Director of IT
 Employment Type: Full-Time
