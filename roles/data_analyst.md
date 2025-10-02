@@ -40,7 +40,7 @@ We are looking for a skilled Data Analyst to join our remote data science team. 
 ## Key Responsibilities
 
 - Write and optimize queries using BigQuery & SQL to create analytic tables and extract actionable insights
-- Design, develop, and maintain reports and dashboards in Tableau Cloud to visualize key metrics and trends
+- Design, develop, and maintain reports and dashboards in Looker to visualize key metrics and trends
 - Collaborate with engineering teams to ensure data pipelines and storage in PostgreSQL and BigQuery are efficient, accurate, and reliable
 - Support business teams by providing ad hoc analyses and insights to guide decisions
 - Monitor and ensure the quality and accuracy of data across multiple sources
