@@ -13,6 +13,7 @@ that provide prescription medical weight loss treatments.
 - [Data Analyst (remote)](./roles/data_analyst.md)
 - [Data Engineer (remote)](./roles/senior_data_engineer.md)
 - [Salesforce Architect (remote)](./roles/salesforce_architect.md)
+- [Sr Software Engineer (Ruby, remote)](./roles/senior_fullstack_engineer.md)
 
 # Prior Roles
 
