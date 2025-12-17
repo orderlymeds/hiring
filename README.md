@@ -9,9 +9,19 @@ that provide prescription medical weight loss treatments.
 
 ## Open Roles
 
+*All roles are remote*
+
+- [Data Analyst](./roles/data_analyst.md)
+- [Senior Data Engineer](./roles/senior_data_engineer.md)
+- [Data Engineer](./roles/data_engineer.md)
+- [Director Engineering B2b](./roles/director_engineering_b2b.md)
+- [Director Engineering Core Fulfillment](./roles/director_engineering_core_fulfillment.md)
+- [Director Engineering Mobile](./roles/director_engineering_mobile.md)
+- [Director Security Operations](./roles/director_security_operations.md)
+- [Engineering Manager B2B](./roles/engineering_manager_b2b.md)
+- [Engineering Manager Core Fulfillment](./roles/engineering_manager_core_fulfillment.md)
+- [Engineering Manager Mobile](./roles/engineering_manager_mobile.md)
 - [IT Administrator (Tampa, FL)](./roles/it_admin.md)
-- [Data Analyst (remote)](./roles/data_analyst.md)
-- [Data Engineer (remote)](./roles/senior_data_engineer.md)
 - [Salesforce Architect (remote)](./roles/salesforce_architect.md)
 - [Sr Software Engineer (Ruby, remote)](./roles/senior_fullstack_engineer.md)
 
